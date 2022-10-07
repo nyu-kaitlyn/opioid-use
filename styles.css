@@ -88,3 +88,11 @@ section{
 .accordion-item:target .answer{
     max-height: 20rem;
 }
+
+.accordion-item:target .accordion-link .ion-md-add-circle-outline{
+    display: none;
+}
+
+.accordion-item:target .accordion-link .ion-md-remove-circle-outline{
+    display: block;
+}
