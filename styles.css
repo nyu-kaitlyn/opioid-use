@@ -1,5 +1,10 @@
 body {
-    margin: 0;
-    background: cyan;
+    margin: 10;
+    background: lightcyan;
     text-align: center;
+    font: cal
+}
+
+.content {
+    display: none;
 }
